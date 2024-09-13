@@ -1,0 +1,83 @@
+CHÍNH SÁCH BẢO MẬT
+
+Cập nhật lần cuối: 15/09/2024
+
+1. GIỚI THIỆU
+
+Aulac App, Trường Trung Cấp Âu Lạc - Bắc Ninh ("chúng tôi", "chúng tôi" hoặc "của chúng tôi") tôn trọng quyền riêng tư của bạn và cam kết bảo vệ nó thông qua việc tuân thủ chính sách bảo mật này.
+
+Chính sách này mô tả các loại thông tin mà chúng tôi có thể thu thập từ bạn hoặc bạn có thể cung cấp khi bạn truy cập hoặc sử dụng ứng dụng di động Aulac App của chúng tôi và các thực tiễn của chúng tôi để thu thập, sử dụng, duy trì, bảo vệ và tiết lộ thông tin đó.
+
+2. THÔNG TIN CHÚNG TÔI THU THẬP
+
+Chúng tôi thu thập một số loại thông tin từ và về người dùng của ứng dụng của chúng tôi, bao gồm:
+
+a) Thông tin cá nhân: Tên, số điện thoại, địa chỉ email, ngày sinh, địa chỉ, và số CCCD/CMND.
+b) Thông tin đăng ký: Dữ liệu liên quan đến việc đăng ký khóa học lái xe của bạn.
+c) Thông tin thiết bị: Loại thiết bị, hệ điều hành, và các thông tin kỹ thuật khác về thiết bị bạn sử dụng để truy cập ứng dụng.
+d) Dữ liệu sử dụng: Thông tin về cách bạn sử dụng ứng dụng, bao gồm các tính năng bạn sử dụng và thời gian bạn dành cho mỗi phần của ứng dụng.
+e) Dữ liệu vị trí: Với sự cho phép của bạn, chúng tôi có thể thu thập dữ liệu vị trí chính xác để cung cấp các dịch vụ dựa trên vị trí.
+
+3. CÁCH CHÚNG TÔI SỬ DỤNG THÔNG TIN CỦA BẠN
+
+Chúng tôi sử dụng thông tin chúng tôi thu thập về bạn hoặc bạn cung cấp cho chúng tôi, bao gồm bất kỳ thông tin cá nhân nào, để:
+
+a) Cung cấp, duy trì và cải thiện ứng dụng của chúng tôi.
+b) Xử lý và quản lý đăng ký khóa học lái xe của bạn.
+c) Gửi thông báo về tài khoản của bạn, bao gồm nhắc nhở và cập nhật.
+d) Liên lạc với bạn về các dịch vụ mà bạn đã yêu cầu hoặc các câu hỏi bạn đã gửi cho chúng tôi.
+e) Thông báo cho bạn về các thay đổi đối với ứng dụng hoặc bất kỳ sản phẩm hoặc dịch vụ nào chúng tôi cung cấp.
+f) Cho phép bạn tham gia các tính năng tương tác của ứng dụng.
+g) Phân tích việc sử dụng ứng dụng để cải thiện trải nghiệm người dùng.
+
+4. TIẾT LỘ THÔNG TIN CỦA BẠN
+
+Chúng tôi có thể tiết lộ thông tin cá nhân mà chúng tôi thu thập hoặc bạn cung cấp:
+
+a) Cho các nhà cung cấp dịch vụ của chúng tôi để hỗ trợ chúng tôi trong việc vận hành ứng dụng và cung cấp dịch vụ cho bạn.
+b) Để tuân thủ bất kỳ lệnh tòa án, luật hoặc quy trình pháp lý nào.
+c) Để thực thi hoặc áp dụng các điều khoản sử dụng của chúng tôi và các thỏa thuận khác.
+d) Nếu chúng tôi tin rằng việc tiết lộ là cần thiết hoặc thích hợp để bảo vệ quyền, tài sản hoặc sự an toàn của Aulac App, khách hàng của chúng tôi hoặc những người khác.
+
+5. BẢO MẬT DỮ LIỆU
+
+Chúng tôi đã triển khai các biện pháp bảo mật thích hợp để ngăn chặn thông tin cá nhân của bạn bị mất, bị sử dụng hoặc truy cập một cách tình cờ, bị thay đổi hoặc tiết lộ trái phép. Các biện pháp này bao gồm:
+
+a) Mã hóa dữ liệu nhạy cảm bằng thuật toán mã hóa tiêu chuẩn AES.
+b) Sử dụng HTTPS cho tất cả các kết nối mạng.
+c) Lưu trữ an toàn các khóa mã hóa và thông tin nhạy cảm bằng Keychain (iOS) và KeyStore (Android).
+d) Giới hạn quyền truy cập vào thông tin cá nhân của bạn cho nhân viên, đại lý, nhà thầu và các bên thứ ba khác có nhu cầu kinh doanh cần biết.
+
+6. LƯU TRỮ DỮ LIỆU
+
+Chúng tôi sẽ chỉ giữ thông tin cá nhân của bạn trong thời gian cần thiết để đáp ứng các mục đích mà chúng tôi đã thu thập thông tin đó, bao gồm cho mục đích đáp ứng bất kỳ yêu cầu pháp lý, kế toán hoặc báo cáo nào.
+
+7. QUYỀN CỦA BẠN
+
+Bạn có quyền:
+
+a) Yêu cầu truy cập vào thông tin cá nhân của bạn.
+b) Yêu cầu chúng tôi sửa bất kỳ thông tin nào bạn cho là không chính xác.
+c) Yêu cầu chúng tôi xóa thông tin cá nhân của bạn.
+d) Phản đối việc xử lý thông tin cá nhân của bạn.
+e) Yêu cầu hạn chế xử lý thông tin cá nhân của bạn.
+f) Yêu cầu chuyển thông tin cá nhân của bạn.
+
+8. TRẺ EM DƯỚI 13 TUỔI
+
+Ứng dụng của chúng tôi không dành cho trẻ em dưới 13 tuổi, và chúng tôi không cố ý thu thập thông tin cá nhân từ trẻ em dưới 13 tuổi.
+
+9. THAY ĐỔI ĐỐI VỚI CHÍNH SÁCH BẢO MẬT CỦA CHÚNG TÔI
+
+Chúng tôi có thể cập nhật chính sách bảo mật của mình theo thời gian. Chúng tôi sẽ thông báo cho bạn về bất kỳ thay đổi nào bằng cách đăng chính sách mới trên trang này và cập nhật ngày "Cập nhật lần cuối" ở đầu chính sách bảo mật này.
+
+10. LIÊN HỆ
+
+Nếu bạn có bất kỳ câu hỏi nào về chính sách bảo mật này, vui lòng liên hệ với chúng tôi tại:
+
+Aulac App: Trường Trung Cấp Âu Lạc - Bắc Ninh
+Địa chỉ: Phương Liễu - Quế Võ - Bắc Ninh
+Email: hoang@aulac.edu.vn
+Điện thoại: 0936885585
+
+Bằng cách sử dụng Aulac App, bạn đồng ý với việc thu thập và sử dụng thông tin theo chính sách bảo mật này.
